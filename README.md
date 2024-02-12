@@ -1,7 +1,9 @@
 # End-to-end PowerBI development process of HR analytics.
-My client Atlas Labs would like to create new report to help tracking their HR analytics.
+My client Atlas Labs would like to create a new report to help track their HR analytics.
 
 STEPS:
 ![step1](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/024047eb-6192-43ac-b9a7-a9f9e6290c36)
 
-Loading datasets from CSV files, matching expected data formating for columns, changing table names base on role (Fact or Dimension table).
+Loading datasets from CSV files, matching expected data formatting for columns, changing table names based on role (Fact or Dimension table).
+
+Create a DimDate table for better accuracy date and time in reporting, using DAX code in DimDate.txt
