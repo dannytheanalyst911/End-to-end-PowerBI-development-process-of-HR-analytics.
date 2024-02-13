@@ -11,3 +11,7 @@ Create a DimDate table for better accuracy date and time in reporting, using DAX
 This is the relationship diagram after modeling:
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/c562151b-5f4e-4973-bb55-daeb97c5b1cc)
+
+Calculate key measures of Employee using DAX:
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/dce5517a-e35a-42d7-80e4-068142dfb667)
