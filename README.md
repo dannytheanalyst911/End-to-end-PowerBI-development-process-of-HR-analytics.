@@ -20,3 +20,9 @@ Calculate key measures of Employee using DAX:
 Visualize Employee Hiring Trends, use USERELATIONSHIP() to activate the relationship between DimEmployee and DimDate:
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/b25b789e-d7e8-4089-a46c-1bfe92498393)
+
+Visualise Active Employees by Department and Job Role with bar chart and treemap, unveiling insight that the biggest department at Atlas is Technology (828 people) and Software Engineer is the most popular Job Role (247):
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/1b679365-276f-43c7-aae5-0699cd942331)
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/b6e5eebc-ca0c-4e09-ad4c-de8a61fd48e4)
