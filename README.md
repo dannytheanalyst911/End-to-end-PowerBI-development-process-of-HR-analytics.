@@ -15,3 +15,7 @@ This is the relationship diagram after modeling:
 Calculate key measures of Employee using DAX:
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/dce5517a-e35a-42d7-80e4-068142dfb667)
+
+Visualize Employee Hiring Trends, use USERELATIONSHIP() to activate the relationship between DimEmployee and DimDate:
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/b25b789e-d7e8-4089-a46c-1bfe92498393)
