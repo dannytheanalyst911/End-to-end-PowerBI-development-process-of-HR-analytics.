@@ -53,3 +53,8 @@ Create Performance Tracker by each individual Employee, first show their Start d
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/d4dc73b1-9d77-4269-ba25-7f8fac898b72)
 
+Breakdown their satisfied level by year, also include differenec between Seft Rating and Manager Rating:
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/dbeb59d7-02ce-459c-862a-e3826030cb56)
+
+
