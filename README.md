@@ -48,3 +48,8 @@ Add a pie chart to show Employees by Marital Status:
 Then a combination of line and bar chart to demonstrate Employees by Employees and Average Salary by Ethnicity:
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/64991b82-dcb6-4e43-ad9c-8349f46c515f)
+
+Create Performance Tracker by each individual Employee, first show their Start date, Last Review and Next Review ( if there was no review yet, next review will be 1 year from Start Date).
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/d4dc73b1-9d77-4269-ba25-7f8fac898b72)
+
