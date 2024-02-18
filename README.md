@@ -57,4 +57,8 @@ Breakdown their satisfied level by year, also include differenec between Seft Ra
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/dbeb59d7-02ce-459c-862a-e3826030cb56)
 
+Next, let's dive deeper into the attrition rate of the company, starting with overall Attrition Rate and break down by Department and Job Role:
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/a9cd994d-2e80-4e2f-bcbc-f284226426b4)
+
 
