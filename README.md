@@ -67,3 +67,10 @@ The attrition rate by Hire Date is also a good measure need to be include in our
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/6f20fd45-f5f1-4b2f-8b03-b51167613dff)
 
+Let's take into account other factors that can impact the Attrition Rate, which are Travel frequency, Overtime and Tenure (Years of working in Atlas):
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/1b0686d5-c132-44d8-843e-5445d71183ef)
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/b8de0f2a-f260-45fd-bc20-a8a6569d1b10)
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/82b016a0-8fbb-4b2b-8244-cfd90ecf6cad)
