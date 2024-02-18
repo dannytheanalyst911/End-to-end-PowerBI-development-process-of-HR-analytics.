@@ -1,4 +1,4 @@
-# End-to-end PowerBI development process of HR analytics.
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/f1acf83e-b128-4330-a655-df57d6217c23)# End-to-end PowerBI development process of HR analytics.
 My client Atlas Labs would like to create a new report to help track their HR analytics.
 
 STEPS:
@@ -61,4 +61,9 @@ Next, let's dive deeper into the attrition rate of the company, starting with ov
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/a9cd994d-2e80-4e2f-bcbc-f284226426b4)
 
+The attrition rate by Hire Date is also a good measure need to be include in our report, but first we need to activate relationship between Hire Date from DimEmployee and Date column from DimDate using USERELATIONSHIP() in the DAX editor.
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/d8c2d0e9-6423-427f-973f-8566a6112993)
+
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/6f20fd45-f5f1-4b2f-8b03-b51167613dff)
 
