@@ -1,4 +1,4 @@
-![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/f1acf83e-b128-4330-a655-df57d6217c23)# End-to-end PowerBI development process of HR analytics.
+# End-to-end PowerBI development process of HR analytics.
 My client Atlas Labs would like to create a new report to help track their HR analytics.
 
 STEPS:
