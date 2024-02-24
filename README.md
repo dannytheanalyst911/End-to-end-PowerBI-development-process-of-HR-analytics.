@@ -4,6 +4,8 @@ My client Atlas Labs would like to create a new report to help track their HR an
 STEPS:
 ![step1](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/024047eb-6192-43ac-b9a7-a9f9e6290c36)
 
+## Loading data
+
 Loading datasets from CSV files, matching expected data formatting for columns, changing table names based on role (Fact or Dimension table).
 
 Create a DimDate table for better accuracy date and time in reporting, using DAX code in DimDate.txt
@@ -11,6 +13,8 @@ Create a DimDate table for better accuracy date and time in reporting, using DAX
 This is the relationship diagram after modeling:
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/c562151b-5f4e-4973-bb55-daeb97c5b1cc)
+
+## Construct cards and visuals
 
 Calculate key measures of Employee using DAX:
 
@@ -75,4 +79,17 @@ Let's take into account other factors that can impact the Attrition Rate, which 
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/82b016a0-8fbb-4b2b-8244-cfd90ecf6cad)
 
+## Layout design
+
 Now it's time to arrange the card and custom the theme, I found this interesting [color palette](https://www.color-hex.com/color-palette/1040017), so let's apply it to the report.
+
+### Overview
+
+
+### Demographics
+
+
+### Performance Tracker
+
+
+### Attrition
