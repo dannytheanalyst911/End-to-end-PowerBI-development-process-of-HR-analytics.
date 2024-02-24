@@ -84,12 +84,16 @@ Let's take into account other factors that can impact the Attrition Rate, which 
 Now it's time to arrange the card and custom the theme, I found this interesting [color palette](https://www.color-hex.com/color-palette/1040017), so let's apply it to the report.
 
 ### Overview
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/9a77d48c-ed2f-4a28-88bf-8323269252c6)
 
 
 ### Demographics
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/2aae8a94-4a10-4a8c-846c-a688bfd9e8e0)
 
 
 ### Performance Tracker
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/581eb4bb-182a-4624-ab38-049cece9c30c)
 
 
 ### Attrition
+![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/06ef204c-fd35-4be7-8f54-93fcdbbf93e7)
