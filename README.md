@@ -97,3 +97,10 @@ Now it's time to arrange the card and custom the theme, I found this interesting
 
 ### Attrition
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/06ef204c-fd35-4be7-8f54-93fcdbbf93e7)
+
+- The overall Attrition rate is 16.1%.
+- Sales Representatives is the fastest-changing position with almost 40%, while Engineer Manager tends to stay within company with only 2.7% attrition.
+- Employees tend to hold on to their jobs in the beginning of the year and quit when Christmas comes, due to the attrition rate growing substantially from Q1 to Q4. Further investigations needed to be done to find out why.
+- Most of the employees(1043) is doing some business travel, and the one who goes on business trips frequently tends to quit more than others.
+- People required to work overtime is likely to quit 3 times more than the one who don't (30% vs 10%). Maybe Atlas need to work on the company's overtime policy if it want to fix this problem.
+- Last but not least, seniors are less likely to quit than freshers.
