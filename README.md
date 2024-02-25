@@ -53,19 +53,19 @@ Then a combination of line and bar chart to demonstrate Employees by Employees a
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/64991b82-dcb6-4e43-ad9c-8349f46c515f)
 
-Create Performance Tracker by each individual Employee, first show their Start date, Last Review and Next Review ( if there was no review yet, next review will be 1 year from Start Date).
+Create a Performance Tracker for each Employee, show their Start date, Last Review and Next Review ( if there was no review yet, next review will be 1 year from Start Date).
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/d4dc73b1-9d77-4269-ba25-7f8fac898b72)
 
-Breakdown their satisfied level by year, also include differenec between Seft Rating and Manager Rating:
+Breakdown their satisfied level by year, also include the difference between Seft Rating and Manager Rating:
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/dbeb59d7-02ce-459c-862a-e3826030cb56)
 
-Next, let's dive deeper into the attrition rate of the company, starting with overall Attrition Rate and break down by Department and Job Role:
+Next, let's dive deeper into the attrition rate of the company, starting with the overall Attrition Rate and break down by Department and Job Role:
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/a9cd994d-2e80-4e2f-bcbc-f284226426b4)
 
-The attrition rate by Hire Date is also a good measure need to be include in our report, but first we need to activate relationship between Hire Date from DimEmployee and Date column from DimDate using USERELATIONSHIP() in the DAX editor.
+The attrition rate by Hire Date is also a good measure that needs to be included in our report. First, we need to activate the relationship between the Hire Date from DimEmployee and the Date column from DimDate using USERELATIONSHIP() in the DAX editor.
 
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/d8c2d0e9-6423-427f-973f-8566a6112993)
 
@@ -81,7 +81,7 @@ Let's take into account other factors that can impact the Attrition Rate, which 
 
 ## Layout design
 
-Now it's time to arrange the card and custom the theme, I found this interesting [color palette](https://www.color-hex.com/color-palette/1040017), so let's apply it to the report.
+Now it's time to arrange the card and customize the theme, I found this interesting [color palette](https://www.color-hex.com/color-palette/1040017), so let's apply it to the report.
 
 ### Overview
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/9a77d48c-ed2f-4a28-88bf-8323269252c6)
@@ -90,17 +90,22 @@ Now it's time to arrange the card and custom the theme, I found this interesting
 ### Demographics
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/2aae8a94-4a10-4a8c-846c-a688bfd9e8e0)
 
-
+- Employees' age varies from 18 to 51, with the biggest portions in 20-29 age bins, followed by U40 and U50. Atlas has a pretty young workforce since it is a tech map firm.
+- The gender breakdown is quite equal between men and women, and there is about 10% identified as others, so there is no evidence of gender inequality when hiring for the position.
+- Married is the most popular among employees status with 42,45%, while the divorced rate is quite high, standing at 20,2%.
+- White people make up most of Atlas's workforce (about 60%), and they are the highest-paid group.
+- There are only 16 minority employees and they are reported to have the lowest salary, with an average of just a little bit more than $100k a year, still a good salary in the market. Atlas Labs has a pretty fair compensation package.
 ### Performance Tracker
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/581eb4bb-182a-4624-ab38-049cece9c30c)
 
-
+- We can see individual employee stats by selecting the name, as well as when they get hired, last and next date of review.
+- For example, employee Estelle Chung has job satisfaction decreased by year, and in the last review, he stated himself as meeting expectations, but the manager thinks he needs improvement. The HR department needs to discuss with him what was happening and resolve the issue.
 ### Attrition
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/06ef204c-fd35-4be7-8f54-93fcdbbf93e7)
 
 - The overall Attrition rate is 16.1%.
-- Sales Representatives is the fastest-changing position with almost 40%, while Engineer Manager tends to stay within company with only 2.7% attrition.
-- Employees tend to hold on to their jobs in the beginning of the year and quit when Christmas comes, due to the attrition rate growing substantially from Q1 to Q4. Further investigations needed to be done to find out why.
-- Most of the employees(1043) is doing some business travel, and the one who goes on business trips frequently tends to quit more than others.
-- People required to work overtime is likely to quit 3 times more than the one who don't (30% vs 10%). Maybe Atlas need to work on the company's overtime policy if it want to fix this problem.
+- Sales Representatives is the fastest-changing position with almost 40%, while Engineer Manager tends to stay within the company with only 2.7% attrition.
+- Employees tend to hold on to their jobs at the beginning of the year and quit when Christmas comes, due to the attrition rate growing substantially from Q1 to Q4. Further investigations need to be done to find out why.
+- Most of the employees(1043) are doing some business travel, and the one who goes on business trips frequently tends to quit more than others.
+- People required to work overtime are likely to quit 3 times more than the ones who don't (30% vs 10%). Atlas may need to work on the company's overtime policy if it wants to fix this problem.
 - Last but not least, seniors are less likely to quit than freshers.
