@@ -86,6 +86,9 @@ Now it's time to arrange the card and customize the theme, I found this interest
 ### Overview
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/9a77d48c-ed2f-4a28-88bf-8323269252c6)
 
+- There is a total of 1470 employees at Atlas Labs, which 1233 (83,8%) is active.
+- The biggest department is Technology with 838 employees, and HR is the least with only 51 people.
+- Software Engineer and Data Scientist is the most popular job at Atlas.
 
 ### Demographics
 ![image](https://github.com/dannytheanalyst911/End-to-end-PowerBI-development-process-of-HR-analytics./assets/107795987/2aae8a94-4a10-4a8c-846c-a688bfd9e8e0)
